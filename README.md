@@ -2,6 +2,7 @@
 _Project completion: Jun. 2019_
 
 Recreation of the popular Conway's Game of Life in C++, using the olcPixelGameEngine: github.com/OneLoneCoder/olcPixelGameEngine
+
 It begins with a randomised 200x200 board and plays the game at a user-defined time step, with white tiles being alive, and black, dead.
 
 ## Building
